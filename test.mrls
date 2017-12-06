@@ -1,0 +1,20 @@
+mrlk length = 5;
+mrlk something = mshg Object();
+mrlk lengthClass = arrg {
+    bziri(props) {
+        zli.length = props.length;
+    }
+};
+
+mrlk classExample = mshg lengthClass({length: 10})
+
+omg write(arg) {
+    console.log(arg);
+}
+
+gli(grr i = 0; i < length; i ++) {
+    write(i);
+}
+
+write(something);
+write(classExample.length);
