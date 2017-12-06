@@ -1,4 +1,5 @@
 module.exports = {
+    // origin language words
     'mrlk': 'const',
     'grr': 'let',
     'gli': 'for',
@@ -6,5 +7,28 @@ module.exports = {
     'mshg': 'new',
     'arrg': 'class',
     'zli': 'this',
-    'bziri': 'constructor'
+    'srk': 'if',
+    'brzg': 'case',
+    'gzimg': 'break',
+    'alrg': 'while',
+    'bziri': 'constructor',
+    'zirrg': 'default',
+    'kmig': 'return',
+    'zzshk': 'delete',
+    'llk': 'switch',
+    'zizml': 'void',
+    'zllg': 'catch',
+    'rg': 'do',
+    'grg': 'in',
+    'irgr': 'throw',
+    'gzmig': 'with',
+    'shli': 'continue',
+    'zshig': 'finally',
+    'gilg': 'try',
+    'gri': 'debugger',
+
+    // myself words
+    'brg': 'else',
+    'skrgri': 'typeof',
+    'smrgshkg': 'instanceof',
 };

@@ -1,0 +1,22 @@
+{
+  "name": "murloc",
+  "version": "0.0.1",
+  "description": "murloc script ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thykos/murlocSctript.git"
+  },
+  "author": "thykos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thykos/murlocSctript/issues"
+  },
+  "homepage": "https://github.com/thykos/murlocSctript#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
