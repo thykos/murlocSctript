@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/thykos/murlocSctript#readme",
   "dependencies": {
+    "cli-color": "^1.2.0",
     "lodash": "^4.17.4"
   }
 }

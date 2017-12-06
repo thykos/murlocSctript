@@ -3,10 +3,11 @@ mrlk something = mshg Object();
 mrlk lengthClass = arrg {
     bziri(props) {
         zli.length = props.length;
+        zli.say = write('murloc say: my name is ' + props.name)
     }
 };
 
-mrlk classExample = mshg lengthClass({length: 10})
+mrlk classExample = mshg lengthClass({length: 10, name: 'Abrghg'});
 
 omg write(arg) {
     console.log(arg);
@@ -18,3 +19,4 @@ gli(grr i = 0; i < length; i ++) {
 
 write(something);
 write(classExample.length);
+write(classExample.say);
